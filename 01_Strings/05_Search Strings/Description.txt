@@ -1,0 +1,7 @@
+Have the user enter some text using the input
+function and store in a variable called text
+
+Then find whether or not the word 
+'the' is in the text using the .find method
+
+Then print whether or not the word is in the string
