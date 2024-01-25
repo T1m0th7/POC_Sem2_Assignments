@@ -1,0 +1,23 @@
+Write a program that ask the user for two numbers.
+
+Then output the division of those two numbers.  
+
+You should have two try except blocks.  
+
+One to handle the user input (ValueError)
+
+Another to handle dividing by zero (ZeroDivisionError)
+
+Something like this
+
+number1 = 0
+number2 = 0
+try:
+    # user input stuff setting number1 and number2
+except ValueError:
+    # print message stating that an integer wasn't given
+
+try:
+    #divide number1 / number2
+except ZeroDivisionError:
+    #print message stating that division by zero is not possible.  

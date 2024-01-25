@@ -1,0 +1,5 @@
+Write a program that ask the user for two numbers.
+
+Then output the division of those two numbers.  
+
+Use try except to handle situations where you divide by zero.  

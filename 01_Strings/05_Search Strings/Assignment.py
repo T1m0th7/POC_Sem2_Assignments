@@ -1,16 +1,21 @@
-# Write a program that ask the user for two numbers.
+# import sys
 
-# Then output the division of those two numbers.  
+# user_name = input('What is your name? ')
+# if user_name == '':
+#   print('Empty name? I cannot work with that. I am closing the program. Bye!')
+#   sys.exit()
+# print('Hello,', user_name)
+# print('Let us get started...')
 
-# Use try except to handle situations where you divide by zero.  
+# #use Control+C to perform a KeyboardInterrupt
+# while True:
+#   print('hi!')
 
-number1 = int(input("Enter a number:"))
+# programming_languages = ["Java", "Python", "C++"]
+# print(programming_languages[10])
 
-number2 = int(input("Enter another number:"))
+# ages = {'Jim': 30, 'Pam': 28, 'Kevin': 33}
+# ages['Michael']
 
-try: 
-    value = number1/number2
-    print('The inverse of', value)
-except ZeroDivisionError:
-    print('You provided 0 and division by 0 is not possible, sorry')
-
+# age = input('What is your age? ')
+# print('In 10 years, you will be', age + 10)
