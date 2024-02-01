@@ -1,0 +1,6 @@
+add an else and a finally to your ZeroDivision error from before
+Else runs if no error occurs
+Except runs if an error of a certain type occurs (or a default)
+Finally always runs
+
+Just have it print some silly text.  

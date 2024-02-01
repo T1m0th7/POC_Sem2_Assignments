@@ -7,12 +7,10 @@ except ValueError:
     # print message stating that an integer wasn't given
     pass #YOUDO remove pass when done
 
-
 try:
     #YOUDO divide number1 / number2 and set to answer
     #YOUDO  print the result of the division (aka answer with some helper text)
     pass  # YOUDO remove pass when done
-
 except ZeroDivisionError:
     #YOUDO:  print message stating that division by zero is not possible.  
     pass  # YOUDO remove pass when done
