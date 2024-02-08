@@ -1,0 +1,11 @@
+We are going to make a little bit of code to handle finding the hypotenuse of
+a right triangle from user input.  
+
+import math
+
+leg1 = float(input("Enter the value of leg 1: "))
+leg2 = #YOUDO get float from user input
+
+hyp = #YOUDO.  use the math.hypot function
+
+print("The hypotenuse is", hyp)
