@@ -1,0 +1,7 @@
+Create a class called RightTriangle
+It should have an init method that sets base and height from arguments
+It should have a calculate area method that 
+returns the area (1/2) base * height
+
+Make 2 instances of a RightTriangle
+print out their areas
