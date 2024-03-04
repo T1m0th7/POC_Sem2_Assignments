@@ -1,14 +1,15 @@
-class RightTriangle: 
+class RightTriangle:
     def __init__(self, base, height):
         self.base = base
-        #You do the same thing for the height
-        pass #You do:  remove this pass when done.  
+        #YOUDO:  do the same for height
     
     def area(self):
-        #You do:  return the area calculated from the formula 1/2 base * height.  
-        #You do:  remember to access the base you need to use self.base, same for the height
-        pass  # You do:  remove this pass when done.
+        #Youdo return the area which is 1/2 * base * height
+        pass #Remove this pass when finished
 
-triangle_1 = RightTriangle(3, 4)
-print("The area of triange_1 is", triangle_1.area())
-#Do the same thing for another triangle.  
+triangle1 = RightTriangle(3, 4)
+print("The area of triangle1 is", triangle1.area())
+
+#YOUDO: make another rightTriangle called triangle2
+#YOUDO:  and print its area.  
+

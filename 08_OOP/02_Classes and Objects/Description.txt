@@ -1,0 +1,2 @@
+Add a perimeter method to your RightTriangle class and a hypotenuse method
+Print these values out for each of your triangles like you did the area
