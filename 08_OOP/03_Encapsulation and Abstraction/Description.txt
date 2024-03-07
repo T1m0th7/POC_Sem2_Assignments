@@ -1,0 +1,7 @@
+Create a rectangle class with a 
+base method
+height method
+perimeter method and 
+an area method
+
+The input parameters should be base and height and should be private.  
