@@ -1,0 +1,4 @@
+Add a str method to your rectangle class
+It should print the base and height in a nice string format
+
+print out details for each rectangle.  

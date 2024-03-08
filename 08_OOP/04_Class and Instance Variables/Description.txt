@@ -1,5 +1,5 @@
 Add a counter to the Rectangle class.  
-Make it private so (__)
+Make it private so __
 Create a method that returns the counter called get_count.  
 
 At the end of where you made two Rectangles, call the get_count function and print out the result
