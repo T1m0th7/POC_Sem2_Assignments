@@ -1,0 +1,3 @@
+Create a square class that inherits from rectangle.  
+
+create an __init__ method for square that sets the base and height for the inherited rectangle class

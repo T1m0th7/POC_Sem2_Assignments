@@ -22,9 +22,9 @@ class Rectangle:
     # Youdo get_area method
     
     def __str__(self) -> str:
-        # Rectangle of base:3, height:4
-        return "Rectangle of base:" + self.__base + ", height:" + self.__height
-        pass
+        #Rectangle with base:3, height:4
+        return "Rectangle with base:" + str(self.__base) + ", height:" + str(self.__height)
+    
 
 
 # YOUDO>  create two rectangles.  print their base, height, perimeter, and area
