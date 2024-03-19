@@ -1,0 +1,10 @@
+Create 3 lambda expressions and set each equal to a variable
+
+Create one variable named product and set it to a lambda that takes two numbers and returns their product
+Create one variable named quotient and set it to a lambda that takes two numbers and retursn their quotient
+Create one variable named exponent and set it to a lambda that atkes two numbers and returns the first raised to the power of the second
+
+Call these three lambda
+product(15, 13)
+quotient(15, 13)
+exponent(3, 7)
